@@ -2,7 +2,7 @@
 
 ## Experienced Professional
 
-![Profile Picture]("img/profile.jpg")
+![Profile Picture](img/profile.jpg)
 
 ## My Background
 
