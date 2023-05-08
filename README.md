@@ -2,7 +2,7 @@
 
 ## Experienced Professional
 
-<img src="img/profile/jpg" alt="profile pic" width="200" height="250"/>
+<img src="img/profile.jpg" alt="profile pic" width="200" height="250"/>
 
 ## My Background
 
