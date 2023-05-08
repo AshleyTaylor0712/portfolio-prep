@@ -2,6 +2,8 @@
 
 ## Experienced Professional
 
+![Profile Picture]("img/profile.jpg")
+
 ## My Background
 
 My professional background is filled with a diverse array of experiences that range from military service, government contracting as a geolocation intelligence analyst, course instruction as a subject matter expert in mission management and most recently entrepreneurship.
